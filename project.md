@@ -17,21 +17,21 @@ Beneficiaries would have an AI model that is capable of differing various non-sp
 
 ## References & Supplemental Material
 - Sound Sample Data
-  - https://urbansounddataset.weebly.com/urbansound8k.html
+  - [Urban Sound Datasets](https://urbansounddataset.weebly.com/urbansound8k.html)
 - Model View Controller (Supplemental Material)
-  - https://www.sciencedirect.com/science/article/pii/S187770581400352X
-  - https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview
+  - [Designing an MVC Model for Rapid Web Application Development](https://www.sciencedirect.com/science/article/pii/S187770581400352X)
+  - [ASP.NET MVC Overview](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview)
 - Logistics of Implementation (Key Questions)
   - Data Science Articles/Tutorials
-    - https://levelup.gitconnected.com/top-ai-software-development-tools-in-2020-85618d01b1c4
-    - https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc
-    - https://www.iotforall.com/tensorflow-sound-classification-machine-learning-applications/
-    - https://opensource.com/article/19/9/audio-processing-machine-learning-python
-    - https://medium.com/@mikesmales/sound-classification-using-deep-learning-8bc2aa1990b7
+    - [Top AI Software Development Tools in 2020](https://levelup.gitconnected.com/top-ai-software-development-tools-in-2020-85618d01b1c4)
+    - [How to apply machine learning and deep learning methods to audio analysis](https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc)
+    - [Sound Classification with TensorFlow](https://www.iotforall.com/tensorflow-sound-classification-machine-learning-applications/)
+    - [An introduction to audio processing and machine learning using Python](https://opensource.com/article/19/9/audio-processing-machine-learning-python)
+    - [Sound Classification using Deep Learning](https://medium.com/@mikesmales/sound-classification-using-deep-learning-8bc2aa1990b7)
   - Research & Informational Sources
-    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4118411/
-    - https://www.researchgate.net/publication/333841929_A_New_Approach_to_Real_Time_Impulsive_Sound_Detection_for_Surveillance_Applications
-    - https://labrosa.ee.columbia.edu/~dpwe/pubs/LeeE06-vad.pdf
-    - http://arxiv-export-lb.library.cornell.edu/pdf/1804.04715
-    - https://www.mdpi.com/2076-3417/10/6/2020/pdf
-    - https://arxiv.org/pdf/1810.04989.pdf
+    - [Robust Sensing of Approaching Vehicles Relying on Acoustic Cues](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4118411/)
+    - [A New Approach to Real Time Impulsive Sound Detection for Surveillance Applications](https://www.researchgate.net/publication/333841929_A_New_Approach_to_Real_Time_Impulsive_Sound_Detection_for_Surveillance_Applications)
+    - [Voice Activity Detection in Personal Audio Recordings Using Autocorrelogram Compensation](https://labrosa.ee.columbia.edu/~dpwe/pubs/LeeE06-vad.pdf)
+    - [Sound Event Detection and Time-Frequency Segmentation from Weakly Labelled Data](http://arxiv-export-lb.library.cornell.edu/pdf/1804.04715)
+    - [A Review of Deep Learning Based Methods for Acoustic Scene Classification](https://www.mdpi.com/2076-3417/10/6/2020/pdf)
+    - [Listening for Sirens: Locating and Classifying Acoustic Alarms in City Scenes.](https://arxiv.org/pdf/1810.04989.pdf)
