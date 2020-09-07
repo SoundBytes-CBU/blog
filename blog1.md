@@ -7,7 +7,6 @@ This week, the team set out to complete the following tasks
 - Creating the Blog
 - Updating the Blog for Week 2
 - Writing the Letter of Intent
-- Getting User Stories
 
 These tasks were completed successfully throughout the period the week.
 
@@ -28,8 +27,6 @@ The blog was updated to support this blog entry for the week of 8/31/20 through 
 The letter of intent was drafted with the intent to be submitted by the morning of 9/7/20 before EGR401. 
 
 ![Image of the Letter of Intent Front Page PDF Document](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week2/letter_of_intent.png?raw=true)
-
-## Getting User Stories
 
 #### Update and Submitted by Timothy Roe, Jr. on 9/6/2020
 #### Return [Home](index.md)
