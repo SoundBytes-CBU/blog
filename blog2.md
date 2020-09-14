@@ -26,9 +26,26 @@ The goal is to determine these anomalies quickly and effeciently. To do this, we
 
 The team worked together throughout the week to create a Initial Problem Statement that we understand to be submitted with the SRS (Software Requirements Specification). The problem statement as given by the client: "A recent article in Wired magazine highlighted the computing demands of current AI and ML algorithms is so great that progress on tasks such as translation and autonomous vehicles is likely to slow."
 
+This statement was understood as such by the team: "The AI and ML algorithms for autonomous vehicles require massive amounts of computational power that is currently not available. The current algorithms are not time efficient enough to be dependable in every situation. If progress is to continue in the realm of autonomous vehicles, a better understanding of the core attributes of these AI and ML algorithms must be analyzed and compared."
+
 The Initial Problem Statement was added to the SRS and submitted on 9/13/2020.
 
-## Questions Prompted to Client
+![Image from the Client Interview](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week3/srs_2.jpg?raw=true)
 
 ## Research & Analysis on Algroithms
+
+Research was conducted to determine the different algorithms we to reasearch and ponteitally use in this 
+
+![Learning Features for Subsequent Anomaly Measures vs Direct Learning of Anomaly Scores](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week3/anomaly_1.jpg?raw=true)
+
+Above is a visual representation of what is actually going on behind the scenes, when the anomaly is being discerned.  The system requires some form of general data input and once acquired, the system presents all of the calculated data with distinctions between normal and anomalies within the data, otherwise known according to the source as Learning Representations for Anomaly Detection.
+
+![Learning Features for Subsequent Anomaly Measures vs Direct Learning of Anomaly Scores b](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week3/anomaly_2.jpg?raw=true)
+
+## Updating the Blog for Week 3
+The blog was updated to support this blog entry for the week of 9/7/20 through 9/13/20.
+
+#### Update and Submitted by Timothy Roe, Jr. on 9/13/2020
+#### Return [Home](index.md)
+
 
