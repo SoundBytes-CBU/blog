@@ -16,7 +16,7 @@ Summarize information from the client interview.
 Research & Analysis on Algroithms.
 Updating the Blog for Week 3
 
-[Continuing Reading...](blog2.md)
+[Continue Reading...](blog2.md)
 
 
 ## Week of 8/31/20

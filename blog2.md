@@ -12,7 +12,7 @@ This week, the team set out to complete the following tasks
 - Research & Analysis on Algroithms.
 - Updating the Blog for Week 3
 
-##Client Interview & Summary
+## Client Interview & Summary
 
 ![Image from the Client Interview](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week3/meeting.jpg?raw=true)
 
@@ -22,13 +22,13 @@ This project, which can be found [here](project.md), focuses on the effeciency a
 
 The goal is to determine these anomalies quickly and effeciently. To do this, we intend to compare the same sounds and anomalies to multiple different AI/ML algorithms, and determine the how fast these systems are able to detect and respond to the anomaly and compare how they work with each specific anomaly.
 
-##Initial Problem Statement
+## Initial Problem Statement
 
 The team worked together throughout the week to create a Initial Problem Statement that we understand to be submitted with the SRS (Software Requirements Specification). The problem statement as given by the client: "A recent article in Wired magazine highlighted the computing demands of current AI and ML algorithms is so great that progress on tasks such as translation and autonomous vehicles is likely to slow."
 
 The Initial Problem Statement was added to the SRS and submitted on 9/13/2020.
 
-##Questions Prompted to Client
+## Questions Prompted to Client
 
-##Research & Analysis on Algroithms
+## Research & Analysis on Algroithms
 
