@@ -5,6 +5,20 @@ To see the project details, [click here.](project.md)
 
 # Blog Entries
 
+## Week of 9/7/20
+This week, the team set out to complete the following tasks
+
+Updating the Weekly Log Sheet for Week 3.
+Interview client to specific the project needs.
+Develop the Initial Problem Statement.
+Create questions to ask the client.
+Summarize information from the client interview.
+Research & Analysis on Algroithms.
+Updating the Blog for Week 3
+
+[Continuing Reading...](blog2.md)
+
+
 ## Week of 8/31/20
 This week, the team set out to complete the following tasks
 
