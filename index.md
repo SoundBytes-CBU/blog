@@ -5,6 +5,16 @@ To see the project details, [click here.](project.md)
 
 # Blog Entries
 
+## Week of 9/14/20
+This week, the team set out to complete the following tasks
+
+- Analyze the alogrithms found and extrapolate a high-level overview
+- Research how ML algorithms are being used completitively in industry
+- Identifiy and Discuss Project Implementation tools
+- Completeing Final Demonstration Script
+
+[Continue Reading...](blog3.md)
+
 ## Week of 9/7/20
 This week, the team set out to complete the following tasks
 
