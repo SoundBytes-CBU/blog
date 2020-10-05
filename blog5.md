@@ -26,11 +26,15 @@ The team met with Jeff and discussed general approaches to machine learning impl
 
 The team worked throughout the week to prepare the Midterm Presentation that is to be discussed and show on 10/5/20 during EGR401, Section H.
 
-## Describe Metholody (SRS 3.1)
+## Describe Methodoloy (SRS 3.1)
 
 ![Team Discussing/Meeting](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week5/team_meeting2.png?raw=true)
 
 The team will be taking the Agile Approach to the Methodology that'll be used in Development. The Agile Approach focuses on the idea of iterative progress. Agile Approach requires in-depth planning and look closely at how things are implemented and completed before moving onto the next step. Once the team finishes the tasks at hand, the team will test the software to ensure it's consistency before moving on to the next "sprint". This is to ensure redundency in the software and prevent possible hiccups in bug testing in the future or potentially leaving a fatal flaw in development. The agile apporach is standing within most software development firms and many different companies modify this approach to their companies liking to make it flexible according to their needs and schedule.
+
+## Application Methodoloy (SRS 3.2)
+
+The team has discussed and will be implementing a variation of the Agile method for this teams specific software development methodology. The team will take a slight deviation from the Agile method as we will have two different sub teams that will be working on two different sets of tasks for each sprint, one-week period of time. During each sprint the team will meet, plan, and discuss the plan for each sprint. Once the team as agreed on the plan of attack for that specific sprint the team will divide into sub team where the sub teams will come up with measurable goals that will be entered into the log-sheet. One sub team will specifically be working on implementation, while the other is doing research specific to the implementation of the next sprint. While one team is implementing the project, the other will be updating the research paper with their implementation specific findings. The teams will then switch what they are working on in the next sprint. The key idea of this approach is so that we can iteratively work on the web application aspect of our project while also simultaneously keeping the research paper concurrent and updated.
 
 ## Communication Mechanisms (SRS 3.3)
 
