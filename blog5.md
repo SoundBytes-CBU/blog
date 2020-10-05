@@ -20,6 +20,12 @@ The team submitted the Client Feedback & Final Script Review on September 22, 20
 
 The team met with Jeff and discussed general approaches to machine learning implementations. They also discussed the different projects that have used different machine learning implementations throughout the last 5 years in the industry and its significance. Jeff mentioned a project where machine learning was used to detect if illegal activities were being conducted such as chopping down trees within the Amazon rainforest. Finally, Jeff mentioned a seminar he'd like to have going over the general aspects of Artificial Intelligence and its subsets.
 
+## Preparing for Midterm Presentation
+
+![Powerpoint Slide](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week5/powerpoint.png?raw=true)
+
+The team worked throughout the week to prepare the Midterm Presentation that is to be discussed and show on 10/5/20 during EGR401, Section H.
+
 ## Describe Metholody (SRS 3.1)
 
 ![Team Discussing/Meeting](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week5/team_meeting2.png?raw=true)
