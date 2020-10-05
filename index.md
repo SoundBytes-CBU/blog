@@ -5,6 +5,30 @@ To see the project details, [click here.](project.md)
 
 # Blog Entries
 
+## Week of 9/28/20
+This week, the team set out to complete the following tasks:
+
+- Complete Midterm Presentation Packet
+- Update and Restructure SRS 2.1 - 2.4
+- Client Feedback & Final Script Review
+- Meeting with Jeff Prosise
+- Describe Methodology that will be Used (SRS 3.1)
+- Application Methodology (SRS 3.2)
+- Communication Mechanisms (SRS 3.3)
+
+[Continue Reading...](blog5.md)
+
+## Week of 9/21/20
+This week, the team set out to complete the following tasks:
+
+- Summarize Final Problem Understanding (SRS 2.1)
+- Analyze one or two plausible solutions (SRS 2.2)
+- Select a preferred solution and Discuss (SRS 2.3)
+- Describe Solution Abstractions (SRS 2.4)
+- Send Deliverables to Jeff Prosise
+
+[Continue Reading...](blog4.md)
+
 ## Week of 9/14/20
 This week, the team set out to complete the following tasks
 
