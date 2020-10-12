@@ -5,6 +5,12 @@ To see the project details, [click here.](project.md)
 
 # Blog Entries
 
+## Week of 10/5/20
+This week, the team set out to complete the following tasks:
+
+- Review Midterm Packet & Submit the Package
+- Midterm Peer Assessment
+
 ## Week of 9/28/20
 This week, the team set out to complete the following tasks:
 
