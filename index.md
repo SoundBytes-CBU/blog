@@ -11,6 +11,8 @@ This week, the team set out to complete the following tasks:
 - Review Midterm Packet & Submit the Package
 - Midterm Peer Assessment
 
+[Continue Reading...](blog6.md)
+
 ## Week of 9/28/20
 This week, the team set out to complete the following tasks:
 
