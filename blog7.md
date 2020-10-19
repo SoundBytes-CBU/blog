@@ -40,9 +40,17 @@ The ModelWrapper that is being developed will allow the team to experiment with 
 
 For the research sub-team this week, they focused on analyzing a couple of different areas. It consists of models, concepts, and relevant software libraries. For the models, the ones that were recognized for this week were Generative Adversarial Networks (GANs). The concepts that were identified composed of the contrast between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). Finally, some relevant software libraries that were looked into were pytorch and tensorflow. Beginning with the contrast, typically when beginning with the field of research with AI, there can be quite a bit of confusion and overlap between what exactly AI and ML are. Artificial Intelligence is a study, it’s a science. It is the study of methods to build intelligent programs and machines that can creatively solve problems, which has always been considered a human prerogative. Machine Learning is a subset of AI that provides systems the ability to learn and improve in automated sequences simply from experience and does not need to be explicitly programmed. In ML, there are different algorithms (e.g. neural networks) that help to solve problems. Finally, there is DL, a subset of machine learning, which uses the neural networks to analyze different factors with a structure that is similar to the human neural system. These are very powerful tools that are used in thousands of software applications today.
 
+![PyTorch Logo](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week7/pytorch.jpg?raw=true)
+[PyTorch](https://pytorch.org/)
+
+![TensorFlow Logo](https://github.com/SoundBytes-CBU/blog/blob/gh-pages/images/week7/tf.png?raw=true)
+[TensorFlow](https://www.tensorflow.org/)
+
+For the relevant software libraries, pytorch and tensorflow were the most established and used for many machine learning models. PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab. It is free and open-source software released under the Modified BSD license. Wikipedia TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library and is also used for machine learning applications such as neural networks. These software libraries specialize in programming machine learning models and have been widely used.
+
 ### Software Specification (SRS 4.2.2)
 
-#### model_wrapper.py
+#### model_wrapper.py (SRS 4.2.2.1)
 
 The wrapper operates by few constraints and can be started by an user with any set of permissions. 
 
@@ -62,7 +70,17 @@ The image above shows the basic idea of a generative model, where there are trai
 
 The image above shows a more complex example with sample graphs and functions.
 
-### Algorithm Specification (SRS 4.6)
+### Component Specification (SRS 4.2.4)
+
+The model_wrapper.py will contain multiple components and functions to allow the user to train a certain dataset to their liking. The dataset will be able to be broken up for fast processing. The dataset will utilize a KVPair component which is composed of a key and a value. These components are intended to be used for easy data manipulation and processing when handling mass amounts of data.
+
+### Data Specification (SRS 4.2.5)
+
+The data structure that is being used throughout the system is a custom KVPair that is designed for easy data manipulation. It stores a dictionary, much like a NSDictionary in Objective-C or a HashMap in Java however it is easily modifable and not a read only variable that must be copied if it needs to be mutable.
+
+### Algorithm Specification (SRS 4.2.6)
+
+The sorting algorithm is from a built in package from Python. The module will analyze the dataset and sort data accordingly. The algorithm is a hybrid model of a sort and a merge algorithm. The hybrid model is intended to save time.
 
 #### Updated and Submitted by Timothy Roe, Jr. on 10/18/2020
 #### Return [Home](index.md)
