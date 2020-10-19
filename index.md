@@ -5,7 +5,18 @@ To see the project details, [click here.](project.md)
 
 # Blog Entries
 
-## Week of 10/5/20
+## Week of 10/12/20 - 10/18/20 (Week 8)
+This week, the team set out to complete the following tasks:
+
+- Complete SRS 4 - Requirements Specification
+- Complete SRS 4.1 - Agile Overview
+- Complete SRS 4.1 - System Architecture
+- Complete SRS 4.2.2 - Software Specification
+- Complete SRS 4.6 - Algorithm Specification
+
+[Continue Reading...](blog7.md)
+
+## Week of 10/5/20 - 10/11/20 (Week 7)
 This week, the team set out to complete the following tasks:
 
 - Review Midterm Packet & Submit the Package
@@ -13,7 +24,7 @@ This week, the team set out to complete the following tasks:
 
 [Continue Reading...](blog6.md)
 
-## Week of 9/28/20
+## Week of 9/28/20 - 10/4/20 (Week 6)
 This week, the team set out to complete the following tasks:
 
 - Complete Midterm Presentation Packet
@@ -26,7 +37,7 @@ This week, the team set out to complete the following tasks:
 
 [Continue Reading...](blog5.md)
 
-## Week of 9/21/20
+## Week of 9/21/20 - 9/27/20 (Week 5)
 This week, the team set out to complete the following tasks:
 
 - Summarize Final Problem Understanding (SRS 2.1)
@@ -37,7 +48,7 @@ This week, the team set out to complete the following tasks:
 
 [Continue Reading...](blog4.md)
 
-## Week of 9/14/20
+## Week of 9/14/20 - 9/20/20 (Week 4)
 This week, the team set out to complete the following tasks
 
 - Analyze the alogrithms found and extrapolate a high-level overview
@@ -47,7 +58,7 @@ This week, the team set out to complete the following tasks
 
 [Continue Reading...](blog3.md)
 
-## Week of 9/7/20
+## Week of 9/7/20 - 9/13/20 (Week 3)
 This week, the team set out to complete the following tasks
 
 - Updating the Weekly Log Sheet for Week 3.
@@ -61,7 +72,7 @@ This week, the team set out to complete the following tasks
 [Continue Reading...](blog2.md)
 
 
-## Week of 8/31/20
+## Week of 8/31/20 9/6/20 (Week 2)
 This week, the team set out to complete the following tasks
 
 - Editing the Project Proposal (for Dean's Approval)
