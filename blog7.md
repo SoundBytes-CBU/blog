@@ -16,7 +16,7 @@ This week, the team set out to complete the following tasks:
 
 The team has decided to adopt the Agile Methodoloy when developing. The team intends to begin one-week sprints at the start of the week, and continue to meet, discuss, and plan the next course of action. Due to the impact of COVID-19, the team intends to meet over a Voice over IP Platform, in this case Discord. All audible and video conferencing will take place through Discord. The team will begin each week discussing the previous tasks and the upcoming tasks for the week. The team will then divide into small sub-teams and work in parallel, one focused on implenetation of the tasks of a specific sprint, and the other sub-team being more researched focus based. This will allow of quicker development and quicker understanding and foreknowledge when it comes to developing come time. Each team and individual is held to their set measureable goals at the start of the week and is expected to report when their goals can not be met for some reason.
 
-## System Architeture (SRS 4.1)
+## System Architeture (SRS 4.2.1)
 
 ## Software Specification (SRS 4.2.2)
 
