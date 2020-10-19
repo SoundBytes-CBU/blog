@@ -1,6 +1,6 @@
 Return [Home](index.md)
 
-# Week of 9/28/20
+# Week of 9/28/20 - 10/4/20 (Week 6)
 
 This week, the team set out to complete the following tasks:
 

@@ -1,4 +1,4 @@
-# Week of 10/5/20
+# Week of 10/5/20 - 10/11/20 (Week 7)
 
 This week, the team set out to complete the following tasks:
 
