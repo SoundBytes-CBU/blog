@@ -5,6 +5,9 @@ To see the project details, [click here.](project.md)
 
 # Blog Entries
 
+## Week of 10/19/20 - 10/24/20 (Week 9)
+The team has decided to merge with the other AI/ML Team in EGR401, Section A. The new blog is located [here](https://egr-401-402-capstone-2020-21.github.io/ItsClassified-Blog/)
+
 ## Week of 10/12/20 - 10/18/20 (Week 8)
 This week, the team set out to complete the following tasks:
 
